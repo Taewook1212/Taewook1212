@@ -2,7 +2,7 @@
 - 👀 Good day! I’m Taewook who is interested in FrontEnd Develop from South Korea. 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on [tekit-school-five-member]
--        https://github.com/orgs/tekit-school-five-member/repositories
+       https://github.com/orgs/tekit-school-five-member/repositories
 
 ✨ Experience
 1. Android App Development Project, January 2017 to July 2017 (for 6 months) from Gallaster 
