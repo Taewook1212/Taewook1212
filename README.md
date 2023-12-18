@@ -9,7 +9,7 @@
 
 - 📫 How to reach me ...
 
- <div align = center >
+ <div align = center style="dispaly: flex;">
 	
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://taewook12.com/)](https://taewook12.com/](https://taewook12.com/))
 	
