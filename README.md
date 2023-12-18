@@ -8,7 +8,8 @@
 2. 8th front-end school  2023.10.23 to 2024.03.15 (21 weeks) from like a handsome lion
 
 - 📫 How to reach me ...
-- 
+
+- <div align = center >
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
 	
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
@@ -23,3 +24,4 @@
 Taewook1212/Taewook1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</div>
