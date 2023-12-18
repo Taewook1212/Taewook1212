@@ -1,6 +1,6 @@
- Hi, there 👋
-  👀 Good day! I’m Taewook who is interested in FrontEnd Develop from South Korea. 
-  🌱 I’m currently learning 
+ Hi, there 👋 <br/>
+  👀 Good day! I’m Taewook who is interested in FrontEnd Develop from South Korea.  <br/>
+  🌱 I’m currently learning  <br/>
    I’m looking to collaborate on [tekit-school-five-member]
        https://github.com/orgs/tekit-school-five-member/repositories
 
